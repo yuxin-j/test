@@ -11,3 +11,5 @@ print('hello world')
 a = 10
 
 print(2*a)
+
+print('no more math')
